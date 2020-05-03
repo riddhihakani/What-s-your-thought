@@ -1,0 +1,18 @@
+body{
+  background-image: url(bg.jpg);
+  background-position: bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
+
+h3{
+    color: white;
+}
+
+
+h5 a{
+  color: black;
+  text-decoration: none;
+}

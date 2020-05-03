@@ -1,0 +1,13 @@
+body{
+    background-image: url(bg.jpg);
+    background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+h2{
+    color: white;
+}
+
+
